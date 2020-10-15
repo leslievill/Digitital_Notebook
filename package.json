@@ -11,14 +11,5 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/leslievill/Digitital_Notebook.git"
-  },
-  "keywords": [],
-  "bugs": {
-    "url": "https://github.com/leslievill/Digitital_Notebook/issues"
-  },
-  "homepage": "https://github.com/leslievill/Digitital_Notebook#readme"
+  }
 }
