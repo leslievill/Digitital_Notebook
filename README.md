@@ -24,6 +24,9 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 * Git 
 * GitHub 
 
+## Deployed Link 
+-[Digital Notetaker App](https://mighty-sands-70355.herokuapp.com/notes)
+
 
 ## Authors
 
